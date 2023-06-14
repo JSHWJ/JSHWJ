@@ -20,7 +20,7 @@
 
 | 프로젝트명 | 역할 | 개발 기간 |
 | --- | --- | --- |
-| [Happiness-Moneybox](https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox) | 프론트엔드 및 백엔드 개발자 | 2022.01 ~ 2020.02 |
+| [Happiness-Moneybox](https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox) | 프론트엔드 및 백엔드 개발자 | 2022.01 ~ 2022.02 |
 | [Justworkhard-tutorKING](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING) | 팀 리더 및 백엔드 개발자 | 2022.07 ~ 2022.08 |
 | [forever-VocaAllday](https://github.com/HICC-Bootcamp/2023-forever-VocaAllday) | 백엔드 개발자 | 2023.01 ~ 2023.02 |
 
