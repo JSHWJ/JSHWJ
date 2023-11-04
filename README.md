@@ -3,7 +3,7 @@
 🌱 안녕하세요! 저는 현재 AWS 를 공부하고 있는 대학생입니다.
 
 🌱 2023.03 ~ : 홍익대 멋쟁이사자처럼 BE 개발자
-
+🌱 2023.07 ~ : KDTx코딩온 부트캠프 수강 중
 ## 기술
 
 - 프로그래밍 언어 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
