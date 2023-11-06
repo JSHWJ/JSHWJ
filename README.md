@@ -2,8 +2,11 @@
 
 🌱 안녕하세요! 저는 현재 AWS 를 공부하고 있는 대학생입니다.
 
+🌱 2021.03 ~ 2022.12 : 홍익대 중앙동아리 HICC 부트캠프 3회 참여
+
 🌱 2023.03 ~ : 홍익대 멋쟁이사자처럼 BE 개발자
-🌱 2023.07 ~ : KDTx코딩온 부트캠프 수강 중
+
+🌱 2023.07 ~ : KDT x 코딩온 풀스택 개발자 부트캠프 수강 중
 ## 기술
 
 - 프로그래밍 언어 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)<img src="https://img.shields.io/badge/Node.js-#339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -23,4 +26,6 @@
 | [Happiness-Moneybox](https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox) | 프론트엔드 및 백엔드 개발자 | 2022.01 ~ 2022.02 |
 | [Justworkhard-tutorKING](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING) | 팀 리더 및 백엔드 개발자 | 2022.07 ~ 2022.08 |
 | [forever-VocaAllday](https://github.com/HICC-Bootcamp/2023-forever-VocaAllday) | 백엔드 개발자 | 2023.01 ~ 2023.02 |
+| [Coplearn](https://github.com/JSHWJ/KDT-8-Coplearn) | 프론트/백 개발자 | 2023.8 ~ 2023.09 |
+
 
