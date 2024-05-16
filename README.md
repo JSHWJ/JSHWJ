@@ -1,12 +1,15 @@
 ## 소개
 
-🌱 안녕하세요! 저는 현재 데이터 관리 를 공부하고 있는 대학생입니다.
+🌱 안녕하세요! 저는 현재 졸업프로젝트 '나만을 위한 AI 면접 서비스' 를 개발하고 있는 대학생입니다.
+
+
+🌱 2023.07 ~ 2023.11 : KDT x 코딩온 풀스택 개발자 부트캠프 수강 완료
+
+🌱 2023.03 ~ 2023.12 : 홍익대 멋쟁이사자처럼 BE 개발자
 
 🌱 2021.03 ~ 2022.12 : 홍익대 중앙동아리 HICC 부트캠프 3회 참여
 
-🌱 2023.03 ~ : 홍익대 멋쟁이사자처럼 BE 개발자
 
-🌱 2023.07 ~ : KDT x 코딩온 풀스택 개발자 부트캠프 수강 중
 ## 기술
 
 - 프로그래밍 언어 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)<img src="https://img.shields.io/badge/Node.js-#339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
