@@ -32,6 +32,8 @@
 | [Happiness-Moneybox](https://github.com/HICC-Bootcamp/2022-1-Happiness-Moneybox) | 프론트엔드 및 백엔드 개발자 | 2022.01 ~ 2022.02 |
 | [Justworkhard-tutorKING](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING) | 팀 리더 및 백엔드 개발자 | 2022.07 ~ 2022.08 |
 | [forever-VocaAllday](https://github.com/HICC-Bootcamp/2023-forever-VocaAllday) | 백엔드 개발자 | 2023.01 ~ 2023.02 |
+| [웹학습기능 커뮤니티 nogmin] (https://github.com/LikeLion11th-SY-Team/Backend-Repo)| 백엔드 개발자 | 2023.7 ~ 2023.08 |
 | [Coplearn](https://github.com/JSHWJ/KDT-8-Coplearn) | 프론트/백 개발자 | 2023.8 ~ 2023.09 |
+| [홍익대학교 축제 안내 사이트] (https://github.com/HongikUnivFestival/server-with-spring-boot)| 백엔드 개발자 | 2023.10 ~ 2023.11 |
 
 
