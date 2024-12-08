@@ -47,9 +47,8 @@
    | [사용자 맞춤 면접 시뮬레이션 서비스](https://github.com/Hongik-Graduate-Team/Backend) | 팀 리더 및 백엔드 개발자 | 2024.05 ~ [진행 중](https://namanba.site)      |
    | [홍익대학교 축제 안내 사이트](https://github.com/HongikUnivFestival/server-with-spring-boot)   | 백엔드 개발자          | 2023.10 ~ 2023.11   |
    | [프로젝트 공유 및 팀원 모집 서비스](https://github.com/JSHWJ/KDT-8-Coplearn)                  | 프론트/백 개발자       | 2023.08 ~ 2023.09   |
-   | [웹학습기능 커뮤니티](https://github.com/LikeLion11th-SY-Team/Backend-Repo)                  | 백엔드 개발자          | 2023.07 ~ 2023.08   |
    | [단어 암기 도우미 서비스](https://github.com/HICC-Bootcamp/2023-forever-VocaAllday)           | 백엔드 리더 및 개발자  | 2023.01 ~ 2023.02   |
-   | [비대면 과외 매칭 서비스](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING)       | 팀 리더 및 백엔드 개발자 | 2022.07 ~ 2022.08   |
+
 
 
 
