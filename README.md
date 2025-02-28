@@ -2,7 +2,7 @@
 ### 👋 Hi there
 - 안녕하세요! 보안과 백엔드에 관심을 가지고 있어 공부하고 있습니다.
 
-#### 💡 Experience
+### 💡 Experience
 
 - 에스엠플래닛 시각장애인 맞춤형 통합 플랫폼 백엔드 개발 인턴 *(2024.07 ~ 2024.12)*  
 - 제일기획 디지털플랫폼팀 개발기획 인턴 *(2023.11 ~ 2024.01)*  
@@ -12,7 +12,7 @@
 
 - ---
 
-#### 💻 Stack
+### 💻 Stack
 
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white" />
 
 
-#### 🛠️ Tools
+### 🛠️ Tools
 
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
