@@ -8,18 +8,6 @@
 - 홍익대 개발 동아리 UMC BE 스터디 *(2022.03 ~ 2022.12)*  
 - 홍익대 개발 중앙 동아리 HICC 개발 프로젝트 3회 참여 *(2021.03 ~ 2022.12)*  
 
-## 💻 프로젝트
-                                       
-   
-|                   프로젝트명                                  |                역할                 |       개발 기간       |
-| :-----------------------------------------------------------: | :--------------------------------: | :-------------------: |
-| [맞춤형 헤어 컨설팅 예약 서비스](https://github.com/Blaybus-8Hz/BE) | 백엔드 개발자 및 개발기획자        |        2025.02        |
-| [사용자 맞춤 면접 시뮬레이션 서비스](https://github.com/Hongik-Graduate-Team/Backend) | 팀 리더 및 백엔드 개발자         | 2024.05 ~ 2024.12     |
-| [홍익대학교 축제 안내 사이트](https://github.com/HongikUnivFestival/server-with-spring-boot) | 백엔드 개발자                     |   2023.8 ~ 2023.09    |
-| [프로젝트 공유 및 팀원 모집 서비스](https://github.com/JSHWJ/KDT-8-Coplearn) | 프론트/백 개발자                  |   2023.08 ~ 2023.09   |
-| [단어 암기 도우미 서비스](https://github.com/HICC-Bootcamp/2023-forever-VocaAllday) | 백엔드 리더 및 개발자             |   2023.01 ~ 2023.02   |
-| [비대면 과외 매칭 서비스](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING) | 팀 리더 및 백엔드 개발자         |   2022.07 ~ 2022.08   |
-
 ## 📚 기술 스택
 
 - 
@@ -40,7 +28,16 @@
    ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 
-
-
+## 💻 프로젝트
+                                       
+   
+|                   프로젝트명                                  |                역할                 |       개발 기간       |
+| :-----------------------------------------------------------: | :--------------------------------: | :-------------------: |
+| [맞춤형 헤어 컨설팅 예약 서비스](https://github.com/Blaybus-8Hz/BE) | 백엔드 개발자 및 개발기획자        |        2025.02        |
+| [사용자 맞춤 면접 시뮬레이션 서비스](https://github.com/Hongik-Graduate-Team/Backend) | 팀 리더 및 백엔드 개발자         | 2024.05 ~ 2024.12     |
+| [홍익대학교 축제 안내 사이트](https://github.com/HongikUnivFestival/server-with-spring-boot) | 백엔드 개발자                     |   2023.8 ~ 2023.09    |
+| [프로젝트 공유 및 팀원 모집 서비스](https://github.com/JSHWJ/KDT-8-Coplearn) | 프론트/백 개발자                  |   2023.08 ~ 2023.09   |
+| [단어 암기 도우미 서비스](https://github.com/HICC-Bootcamp/2023-forever-VocaAllday) | 백엔드 리더 및 개발자             |   2023.01 ~ 2023.02   |
+| [비대면 과외 매칭 서비스](https://github.com/HICC-Bootcamp/2022-Justworkhard-tutorKING) | 팀 리더 및 백엔드 개발자         |   2022.07 ~ 2022.08   |
 
 
